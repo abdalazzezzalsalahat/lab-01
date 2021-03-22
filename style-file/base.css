@@ -5,6 +5,8 @@
 body{
     width: 480px;
     text-align: center;
+    margin-right: auto;
+    margin-left: auto;
 }
 header {
     width: 100%;
