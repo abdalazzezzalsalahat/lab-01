@@ -1,0 +1,211 @@
+@media (min-width:  768px){
+    .header{
+        width:100%;
+        height:100px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color: #9ddada;
+    }
+    .container{
+        width: 100%;
+        background: #e26060;
+        display: flex;
+    }
+    .container .sid-nav{
+        width: 20.8%;
+        height: 600px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#5e5ed1;
+    }
+    .container .box{
+        width: 80%;
+    }
+    .box .top{
+        width: 100%;
+        display: flex;
+    }
+    .X{
+        width: 50%;
+        height: 200px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#624207;
+    }
+    .W{
+        width: 50%;
+        height: 200px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:  #703fca;
+    }
+    .bottom{
+        width: 100%;
+        background-color:#ffaf7b;
+        display: flex;
+    }
+    .right,.left{
+        width: 100%;
+        display: flex;
+    }
+    .V{
+        width: 50%;
+        height: 250px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#f05564;
+    }
+    .U{
+        width: 50%;
+        height: 250px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#84eb86;
+    }
+    .T{
+        width: 50%;
+        height: 250px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#5277bd;
+    }
+    .S{
+        width: 50%;
+        height: 250px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#4f9bbe;
+    }
+    .footer{
+        width: 100%;
+        height: 150px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#b45c6f;
+    }
+}
+@media (min-width:  960px){
+    .header{
+        width:100%;
+        height:100px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color: #e07bc2;
+    }
+    .container{
+        width: 100%;
+        background: rgb(94, 59, 59);
+        display: flex;
+    }
+    .container .sid-nav{
+        width: 20.8%;
+        height: 600px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#e79f5a;
+    }
+    .container .box{
+        width: 80%;
+    }
+    .box .top{
+        width: 100%;
+        display: flex;
+    }
+    .X{
+        width: 50%;
+        height: 200px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#328330;
+    }
+    .W{
+    
+        width: 50%;
+        height: 200px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#66441e;
+    }
+    
+    .bottom{
+        width: 100%;
+        background-color:#1f581d;
+        display: flex;
+    }
+    .right,.left{
+        width: 100%;
+        display: flex;
+    }
+    .V{
+        width: 50%;
+        height: 250px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#3e6106;
+    }
+    .U{
+        width: 50%;
+        height: 250px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#3d308f;
+    }
+    .T{
+        width: 50%;
+        height: 250px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#296964;
+    }
+    .S{
+        width: 50%;
+        height: 250px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#2fa380;
+    }
+    
+    .footer{
+        width: 100%;
+        height: 150px;
+        text-align:center;
+        justify-content:center;
+        align-items:center;
+        display:flex;
+        background-color:#c94763;
+    }
+}
